@@ -1,3 +1,8 @@
 h1{
   font-weight: normal;
 }
+
+p{
+  color: green;
+  background: pink;
+}
